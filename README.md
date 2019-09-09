@@ -62,3 +62,5 @@ You'll be defining the following methods:
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/activerecord-tvshow' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/activerecord-tvshow'>Advanced Finding Lab</a> on Learn.co and start learning to code for free.</p>
+
+#test could'nt pass
